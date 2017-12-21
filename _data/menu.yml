@@ -1,0 +1,16 @@
+- title: "About"
+  href: "/about/"
+
+- title: "CV"
+  href: "/cv/"
+
+- title: "Research"
+  href: "/research/"
+  subcategories:
+    - subtitle: "Publications"
+      subhref: "/research/publications/"
+    - subtitle: "Publish-or-Perish stats"
+      subhref: "/research/pop/"
+
+- title: "Bits and Pieces"
+  href: "/blog/"
