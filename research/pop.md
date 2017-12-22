@@ -4,12 +4,54 @@ title: Publish-or-Perish stats
 permalink: /research/pop/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+## General Statistics
 
-Sed in egestas enim. Cras dapibus leo ligula, ut ultricies eros imperdiet sed. Morbi urna neque, suscipit sit amet fermentum ac, vehicula tempor felis. Quisque sed velit nisi. Aenean ullamcorper, purus a vehicula pretium, diam sem convallis sem, vel accumsan augue tortor in nibh. Ut ultrices hendrerit metus id suscipit. Vivamus mattis neque felis. Nullam vulputate augue id dolor consectetur, in commodo tortor efficitur. Nunc aliquet magna nibh, ut pretium turpis ultricies vel.
+_**Source**: Google Scholar Profile (last updated: 2017-12-22)_
 
-Fusce non eleifend quam. In leo quam, vestibulum vel vulputate a, hendrerit non nibh. Aliquam gravida commodo pretium. Morbi at ligula sed turpis sollicitudin fringilla et vel ante. Maecenas urna arcu, tempor sed neque vel, tempus consequat nisi. Quisque ac arcu ac lorem auctor egestas. Aliquam finibus volutpat tortor, a pellentesque lacus. Maecenas ullamcorper nisi non turpis tincidunt, ut sollicitudin arcu tempus. Suspendisse tristique nulla a porta ultrices. Vivamus sit amet nunc sagittis, efficitur massa ut, posuere quam. Donec sit amet posuere magna, in ullamcorper arcu. Duis id est blandit, bibendum metus at, interdum mi. Vestibulum et dui tellus. Phasellus laoreet enim id dapibus suscipit. Nam convallis risus ac justo tristique convallis. Cras et varius mauris.
+| Metric | Value |
+|--------|-------|
+| Papers | 51 |
+| Citations | 100 |
+| Years | 13 |
+| Cites_Year | 7.69 |
+| Cites_Paper | 1.96 |
+| Cites_Author | 27.70 |
+| Papers_Author | 14.26 |
+| Authors_Paper | 4.24 |
+| h_index | 5 |
+| g_index | 8 |
+| hc_index | 7 |
+| hI_index | 1.14 |
+| hI_norm | 3	 |
+| AWCR | 34.42 |
+| AW_index | 5.87 |
+| AWCRpA | 7.45 |
+| e_index | 5.92 |
+| hm_index | 2.93 |
+| Cites_Author_Year | 2.13 |
+| hI_annual | 0.23 |
+| h_coverage | 60.0 |
+| g_coverage | 75.0 |
+| star_count | 0 |
+| year_first | 2004 |
+| year_last | 2017 |
+| ECC | 100 |
 
-Nullam libero nunc, rutrum vitae tellus ut, pretium sollicitudin sapien. In auctor ipsum sed orci aliquam, eget malesuada velit auctor. Nulla vel maximus ligula, vel molestie odio. Vivamus ac lorem quis libero dictum blandit. Fusce tincidunt justo quis lorem sollicitudin, sed rhoncus nibh facilisis. Morbi vitae congue nunc. Praesent a enim rhoncus, malesuada urna ac, accumsan ex. Fusce ornare porta ipsum id iaculis. Phasellus consectetur nisl vitae est pretium, at ultrices mauris placerat. Duis pellentesque mauris sapien, sed tristique ante auctor vel. Vivamus at sodales metus, eget malesuada eros.
 
-Nunc quis venenatis nunc. Nunc nec libero non quam suscipit placerat. Pellentesque lobortis sagittis arcu at euismod. Phasellus odio nisl, mattis sed sagittis semper, aliquet id sem. Quisque iaculis nisl urna, ac accumsan elit commodo vel. Proin sagittis eleifend sollicitudin. Sed libero lorem, tempus eget turpis id, aliquet commodo augue. Proin diam dolor, rutrum et magna at, semper rutrum sapien.
+## Online Lists
+
+- [Scholar Google](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
+
+- [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=(((Psomopoulos+FE%5BAuthor%5D)+OR+Psomopoulos+F%5BAuthor%5D)+OR+Psomopoulos%2C+Fotis%5BAuthor%5D)+OR+Psomopoulos%2C+Fotis+E%5BAuthor%5D)
+
+- [DBLP](http://www.dblp.org/search/index.php#query=author:fotis_e_psomopoulos:&amp;qp=W1.4:F1.4:F2.4:F3.4:F4.4:H1.1000)
+
+- [CiteULike](http://www.citeulike.org/search/all?q=Fotis+AND+Psomopoulos)
+
+- [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=35173341800)
+
+- [Microsoft Academic](https://academic.microsoft.com/#/detail/2047111080)
+
+- [IEEE Xplore](http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Psomopoulos,%20F&searchWithin=%22First%20Name%22:Fotis&searchWithin=%22Last%20Name%22:Psomopoulos&newsearch=true)
+
+- [BioMedCentral](https://www.biomedcentral.com/search?query=Psomopoulos+Fotis&searchType=publisherSearch)
