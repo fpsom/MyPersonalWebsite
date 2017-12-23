@@ -20,7 +20,6 @@ $brand-color:      #0077CC;
 $clemson-purple:      #522d80;
 $clemson-orange:      #230a00;
 
-
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
@@ -28,7 +27,6 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    950px;
-
 $on-palm:          600px;
 $on-laptop:        950px;
 
@@ -48,13 +46,12 @@ $on-laptop:        950px;
 }
 
 
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "header",
+  "header",
 	"mobile-header",
-        "base",
-        "layout",
-        "syntax-highlighting",
+  "base",
+  "layout",
+  "syntax-highlighting",
 	"fancy-image"
 ;

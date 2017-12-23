@@ -2,7 +2,9 @@
 title: Cloud Computing and Bioinformatics
 email: fopsom-[at]-gmail-dot-com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the personal website of Fotis E. Psomopoulos.
+  Institute of Applied Biosciences (INAB),
+  Center for Research and Technology Hellas (CERTH),
+  Thermi 57001, Greece
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://fpsom.github.io" # the base hostname & protocol for your site
 twitter_username: fopsom
@@ -22,6 +24,7 @@ scholar:
 
   sort_by: none
   order: ascending
+  #group_by: year
 
   source: _bibliography
   bibliography: references.bib

@@ -6,6 +6,8 @@ permalink: /research/publications/
 
 # Bibliography
 
+[**Book Chapter**](#book-chapter) | [**Journals**](#journals) | [**Conferences and Announcements**](#conferences-and-announcements) | [**Other**](#other)
+
 ## Book Chapter
 
 {% bibliography --query @incollection[key=DataMiningProteomicsGrid] %}
