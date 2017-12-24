@@ -15,5 +15,5 @@ I have been involved is several European and National Research Projects. An indi
 {% include image.html url="/images/AssistLogo.png" caption="ASSIST logo" width=150 align="right" %}
 - [ASSIST](http://assist.ee.auth.gr/index.php) (_Association Studies Assisted by Inference and Semantic Technologies_) facilitates the research for cervical cancer through a system that virtually unifies multiple patient record repositories, physically located in different medical centres or hospitals. To this end, innovative, knowledge-intensive semantic modelling, fuzzy inferencing and data mining techniques have been developed. ASSIST’s inference engine translates medical concepts into syntactic values that legacy systems may perceive and support the process of evaluating medical hypotheses and contacting association studies.
 
-{% include image.html url="/images/eTHMMY-Logo.png" caption="eTHMMY logo" width=150 align="right" %}
+{% include image.html url="/images/eTHMMY-Logo.png" caption="eTHMMY logo" width=120 align="right" %}
 - [eTHMMY](http://alexander.ee.auth.gr:8083/eTHMMY/) EPEAEK II (National funded) – Operational Program for Education and Initial Vocational Training, Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki, Greece. Software Development, Research project: "e-THMMY".

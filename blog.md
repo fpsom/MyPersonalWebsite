@@ -4,7 +4,7 @@ title: Bits and Pieces
 permalink: /blog/
 ---
 
-Bits and pieces... :)
+General ramblings on ideas, topics, events and general themes I come across... :)
 
 <ul class="listing">
 {% for post in site.posts %}
