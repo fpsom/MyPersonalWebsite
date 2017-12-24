@@ -1,7 +1,4 @@
 
-- title: "CV"
-  href: "/cv/"
-
 - title: "Research"
   href: "/research/"
   subcategories:
@@ -11,6 +8,9 @@
       subhref: "/research/publications/"
     - subtitle: "Publish-or-Perish stats"
       subhref: "/research/pop/"
+
+- title: "CV"
+  href: "/cv/"
 
 - title: "About"
   href: "/about/"
