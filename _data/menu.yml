@@ -9,6 +9,9 @@
     - subtitle: "Publish-or-Perish stats"
       subhref: "/research/pop/"
 
+- title: "Teaching"
+  href: "/teaching/"
+
 - title: "CV"
   href: "/cv/"
 
