@@ -11,12 +11,15 @@
 
 - title: "Teaching"
   href: "/teaching/"
-
-- title: "CV"
-  href: "/cv/"
+  subcategories:
+    - subtitle: "Materials and Resources"
+      subhref: "/teaching/resources/"
 
 - title: "About"
   href: "/about/"
+  subcategories:
+    - subtitle: "CV"
+      subhref: "/about/cv/"
 
 - title: "Bits and Pieces"
   href: "/blog/"

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /cv/
+permalink: /about/cv/
 ---
 
 I graduated from the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki, Greece in 2004 (with 9th degree ranking) and obtained my Ph.D. from the same Department in 2010 under the supervision of Prof. Pericles Mitkas. I trained in the design and development of parallel and distributed data mining algorithms, with a particular focus on bioinformatics, investigating data mining techniques for knowledge extraction from genomic data. In my transition towards bioinformatics, I benefited greatly from spending time in Prof. Christos Ouzounis' Lab at King's College London, under whose supervision I worked later on as part of my post-doctoral research.
