@@ -22,3 +22,5 @@ Well, I will definitely remember September 2016 for a number of reasons, but one
   - 2 Continents: Europe, America
 
 All in all, a very active month (but I'd rather not do so many trips in that short of a time). :)
+
+{% include  share.html %}

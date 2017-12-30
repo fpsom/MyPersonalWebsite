@@ -17,3 +17,5 @@ For me, two things have become even more clear:
 2. Two days may be convenient in terms of time allocated for any person (given the rather busy schedule of most people now), but it’s a very short time to cover R, Shell and Git. So maybe next time (because there will definitely be a next time) we will aim for three days.
 
 Oh, and a final piece of advice: if you intend to have food or catering at a SWC workshop, ordering pizza may be the best solution…. 🙂
+
+{% include  share.html %}

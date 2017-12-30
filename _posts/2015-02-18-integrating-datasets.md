@@ -11,3 +11,5 @@ A collaboration between ELIXIR and EGI is by itself great news. Personally it me
 The joint project I mentioned earlier is one that I am proud of being the coordinator of. It is an [EGI Virtual Team project on Integrating Life Science Reference Datasets](https://wiki.egi.eu/wiki/Integrating_Reference_Datasets). Yes, I know it's a mouthful but it's really quite simple: instead of having to constantly copy reference datasets (i.e. NR/NT, UniProt, BowTie index files etc) to several computational nodes, leave it to the infrastructure to do it for you.
 
 As a project it just started, but hopefully we'll have some interesting results in the next 9 months. I'll keep you posted!
+
+{% include  share.html %}

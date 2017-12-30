@@ -11,3 +11,5 @@ Anyway, my project now is in Perl so I had to look a little bit around for any e
 That was two days ago. In this time I've been able to setup almost everything writing only a fraction of the code I used to. Now I am working on the particulars of the application behind the web-service. The setup of the service is straightforward; the DANCER dev team actually provides a tool to help along the way. But (as in every transition between languages) there are several bumps along the road after that. So, in order to help anyone interested, I'll share any "recipes" that I come up along
 
 Good coding to all!
+
+{% include  share.html %}

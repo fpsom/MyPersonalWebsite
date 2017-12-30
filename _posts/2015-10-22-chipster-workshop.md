@@ -15,3 +15,5 @@ So, the take home message; there is clearly a need (some might consider it a de
 Finally, I would be remiss if I didn't thank enough the two people that really supported this workshop: Diego Scardaci from EGI.eu and Kimmo Mattila from CSC, whom I constantly pestered with questions and issues in the past few weeks, and they always had the time and patience to lend me their experience.
 
 Hopefully, there will be follow-up and more specialized workshops. However, if you are interested, the next one will take place at the [EGI Community Forum](https://indico.egi.eu/indico/event/2544/) in Bari. So, hope to see you there!
+
+{% include  share.html %}
