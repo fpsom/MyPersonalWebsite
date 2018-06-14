@@ -6,36 +6,36 @@ permalink: /research/pop/
 
 ## General Statistics
 
-_**Source**: Google Scholar Profile (last updated: 2017-12-22)_
+_**Source**: Google Scholar Profile (last updated: 2018-06-14)_
 
 | Metric | Value |
 |--------|-------|
-| Papers | 51 |
-| Citations | 100 |
-| Years | 13 |
-| Cites_Year | 7.69 |
-| Cites_Paper | 1.96 |
-| Cites_Author | 27.70 |
-| Papers_Author | 14.26 |
-| Authors_Paper | 4.24 |
-| h_index | 5 |
-| g_index | 8 |
-| hc_index | 7 |
-| hI_index | 1.14 |
+| Papers | 53 |
+| Citations | 106 |
+| Years | 14 |
+| Cites_Year | 7.57 |
+| Cites_Paper | 2.00 |
+| Cites_Author | 28.14 |
+| Papers_Author | 15.09 |
+| Authors_Paper | 4.17 |
+| h_index | 6 |
+| g_index | 9 |
+| hc_index | 6 |
+| hI_index | 1.29 |
 | hI_norm | 3	 |
-| AWCR | 34.42 |
-| AW_index | 5.87 |
-| AWCRpA | 7.45 |
-| e_index | 5.92 |
-| hm_index | 2.93 |
-| Cites_Author_Year | 2.13 |
-| hI_annual | 0.23 |
-| h_coverage | 60.0 |
-| g_coverage | 75.0 |
+| AWCR | 31.39 |
+| AW_index | 5.6 |
+| AWCRpA | 6.46 |
+| e_index | 5.57 |
+| hm_index | 2.99 |
+| Cites_Author_Year | 2.01 |
+| hI_annual | 0.21 |
+| h_coverage | 63.2 |
+| g_coverage | 77.4 |
 | star_count | 0 |
 | year_first | 2004 |
-| year_last | 2017 |
-| ECC | 100 |
+| year_last | 2018 |
+| ECC | 106 |
 
 
 ## Online Lists

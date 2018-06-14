@@ -6,13 +6,21 @@ permalink: /research/publications/
 
 # Bibliography
 
-[**Book Chapter**](#book-chapter) | [**Journals**](#journals) | [**Conferences and Announcements**](#conferences-and-announcements) | [**Other**](#other)
+[**Book**](#book)  |  [**Book Chapter**](#book-chapter)  |  [**Journals**](#journals)  |  [**Conferences and Announcements**](#conferences-and-announcements)  |  [**Other**](#other)
+
+## Book
+
+{% bibliography --query @book[key=OSTHbook] %}
 
 ## Book Chapter
 
 {% bibliography --query @incollection[key=DataMiningProteomicsGrid] %}
 
 ## Journals
+
+### 2018
+
+{% bibliography --query @article[year=2018] %}
 
 ### 2017
 
@@ -44,6 +52,10 @@ permalink: /research/publications/
 
 
 ## Conferences and Announcements
+
+### 2018
+
+{% bibliography --query @inproceedings[year=2018] %}
 
 ### 2017
 

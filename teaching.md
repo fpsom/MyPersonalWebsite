@@ -8,7 +8,7 @@ Beyond the research aspects of my work, significant time and effort is dedicated
 
 After receiving my Ph.D. I continued my teaching activities on multiple levels; as an Academic Fellow, I provided undergraduate and graduate courses on subjects such as "Data Structures" and "Grid computing and applications in biomedicine" at AUTH. In this capacity I was responsible for preparing the training material, delivering the course as well as examining the students. As an Adjunct Lecturer at the University of West Macedonia, I taught "Advanced Topics in Software Engineering" with full responsibilities on the course, i.e. topics taught, course delivery, students’ assignments and examinations. Finally, as a Visiting Professor at Quest University Canada, I am charged with delivering a high intensity one-block course with daily classes on "Computer Programming" with Java.
 
-Moreover, and beside the traditional academic activities, I have been involved with training activities for several international events as well as being a fully certified Instructor and Trainer for Software and Data Carpentry.
+Moreover, and beside the traditional academic activities, I have been involved with training activities for several international events as well as being a fully certified Instructor and Trainer for Software and Data Carpentry. Finally, since January 2018, I am the [deputy Training Coordinator for ELIXIR-GR](http://elixir.imis.athena-innovation.gr/node/209).
 
 An indicative list of teaching and training activities can be found below (with links to the corresponding material where available):
 
@@ -25,6 +25,9 @@ An indicative list of teaching and training activities can be found below (with 
 - "_Introduction to Grid Computing_" and "_Grid computing and applications in biomedicine_" (2013–2016), Postgraduate Programme in Medical Informatics, School of Medicine, AUTH, Thessaloniki, Greece.
 
 ## Other training activities
+- [The CODATA-RDA Research Data Science Advanced Workshops on Bio-informatics](http://indico.ictp.it/event/8561/), Instructor, 5-week workshop on computational methods for the management and analysis of genomic and sequencing data, 20-24 August 2018, ICTP, Kastler Lecture Hall (AGH), Via Grignano, 9, 34151 Trieste, Italy.
+- [4OSS ELIXIR Workshop](), lesson hackathon, 1-3 August 2018, Utrecht, The Netherlands.
+- [Analyzing Next-Generation Sequencing Data (ANGUS), Data Intensive Biology Summer Institute](https://angus.readthedocs.io/en/2017/), Instructor, two-week workshop covering foundational bioinformatics tools and topics, organized by Professor C. Titus Brown at UC Davis, CA, USA, 25 June - 14 July 2017.
 - Workshop: Bioinformatics and Data Mining, Instructor at the International Course ["BIOMEDieval: it’s a new era in engineering!"](https://www.best.eu.org/event/details.jsp?activity=c7r2zu7) organized by [BEST (Board of European Students of Technology)](https://www.best.eu.org) at Aristotle University of Thessaloniki, 07-16 March 2018 (ECTS Credits 1.0).
 - [Workshop on Reproducible data analysis (R and Jupyter)](http://reproducible-analysis-workshop.readthedocs.io), Instructor and Organizer, Open Science Tools, Data and Technologies for Ecological and Evolutionary Research conference, NIOO/DANS, The Netherlands, 7- 9 Dec. 2017.
 - [Data Carpentry: Wrangling Genomics Lesson](http://www.datacarpentry.org/wrangling-genomics/), Maintainer since August 2017.
@@ -37,6 +40,9 @@ An indicative list of teaching and training activities can be found below (with 
 - Introduction to Bioinformatics (2012 – 2013), Organizer and Instructor, Information Processing Laboratory, Dept. Electrical and Computer Engineering, AUTH, Thessaloniki, Greece.
 
 ## Diploma Thesis co-advisor
-- 11 undergraduate Diploma theses completed (since 2005)
-	- 2 Master theses completed (since 2016)
-	- Two diploma theses distinctions, both with the 2nd place award of the IEEE EMBS Greece Chapter (2011 – 2012 and 2013 – 2014)
+- 12 undergraduate Diploma theses completed (since 2005)
+- 2 Master theses completed (since 2016)
+- Two diploma theses distinctions, both with the 2nd place award of the IEEE EMBS Greece Chapter (2011 – 2012 and 2013 – 2014)
+
+## Intern Supervisor
+- 6 interships completed (since 2015)
