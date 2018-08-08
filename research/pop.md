@@ -10,8 +10,8 @@ _**Source**: Google Scholar Profile (last updated: 2018-06-14)_
 
 | Metric | Value |
 |--------|-------|
-| Papers | 53 |
-| Citations | 106 |
+| Papers | 54 |
+| Citations | 114 |
 | Years | 14 |
 | Cites_Year | 7.57 |
 | Cites_Paper | 2.00 |
