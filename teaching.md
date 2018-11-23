@@ -43,7 +43,21 @@ An indicative list of teaching and training activities can be found below (with 
 ## Diploma Thesis co-advisor
 - 12 undergraduate Diploma theses completed (since 2005)
 - 2 Master theses completed (since 2016)
+- 1 Master thesis ongoing (2018 - today)
 - Two diploma theses distinctions, both with the 2nd place award of the IEEE EMBS Greece Chapter (2011 – 2012 and 2013 – 2014)
 
 ## Intern Supervisor
 - 6 interships completed (since 2015)
+
+## Invited talks
+- ["e-infrastructures from the viewpoint of bioinformatics"](https://doi.org/10.6084/m9.figshare.7375916.v1), for the ["Users meet the service providers: a discussion on needs and opportunities to define the EOSC service roadmap"](https://www.eoscpilot.eu/content/users-meet-service-providers-discussion-needs-and-opportunities-define-eosc-service-roadmap#overlay-context=taxonomy/term/16) session at the [2nd EOSC Stakeholders Forum](https://www.eoscpilot.eu/events/second-eosc-stakeholders-forum), Vienna, 21-22 November 2018.
+- "Four recommendations for open research software development", Open Access Week 2018, Library of the Aristotle University of Thessaloniki, 30 October, 2018.
+- "Computationally solving the puzzle of mixed genome jigsaws", CEITEC Metagenomics workshop, Brno, Czech Republic, 11 October, 2018.
+- "Bioinformatics meets Data Mining: a story of NGS Data Analysis", EMB IEEE Student Chapter AUTH, April 26, 2018.
+- ["End-to-end computational workflows for NGS data analysis"](https://doi.org/10.6084/m9.figshare.6024923.v1), ICGEB Workshop “Next Generation Diagnostics”, Skopje, March 22-24, 2018.
+- "Training for Open Science: Principles and Practicalities", Open Data Day 2018, Library of the Aristotle University of Thessaloniki, 14 March, 2018.
+- "The role of Bioinformatics in the today’s laboratory", 27th Panhellenic Haematology Conference, Ioannis Vellidis Congress Centre, HELEXPO – Thessaloniki, Nov. 3 – 5, 2016.
+- "Bioinformatics activities in European e-infrastructures", Workshop "Bioinformatics in AUTH: joining the ELIXIR infrastructure", Aristotle University Research Dissemination Center, Oct. 13, 2016.
+- ELIXIR EXCELERATE workshop "Using clouds and VMs in bioinformatics training", CSC, Helsinki, Finland, May 23 – 25, 2016
+  -	"Clouds, VMs and other resources from EGI for bioinformatics training",
+  - "How to use bioinformatics applications running on the EGI FedCloud".
