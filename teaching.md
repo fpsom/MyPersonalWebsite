@@ -47,7 +47,7 @@ An indicative list of teaching and training activities can be found below (with 
 - Two diploma theses distinctions, both with the 2nd place award of the IEEE EMBS Greece Chapter (2011 – 2012 and 2013 – 2014)
 
 ## Intern Supervisor
-- 6 interships completed (since 2015)
+- 9 internships completed (since 2015)
 
 ## Invited talks
 - ["e-infrastructures from the viewpoint of bioinformatics"](https://doi.org/10.6084/m9.figshare.7375916.v1), for the ["Users meet the service providers: a discussion on needs and opportunities to define the EOSC service roadmap"](https://www.eoscpilot.eu/content/users-meet-service-providers-discussion-needs-and-opportunities-define-eosc-service-roadmap#overlay-context=taxonomy/term/16) session at the [2nd EOSC Stakeholders Forum](https://www.eoscpilot.eu/events/second-eosc-stakeholders-forum), Vienna, 21-22 November 2018.
