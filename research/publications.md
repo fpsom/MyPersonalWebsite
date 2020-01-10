@@ -18,6 +18,10 @@ permalink: /research/publications/
 
 ## Journals
 
+### 2020
+
+{% bibliography --query @article[year=2020] %}
+
 ### 2019
 
 {% bibliography --query @article[year=2019] %}
@@ -56,6 +60,10 @@ permalink: /research/publications/
 
 
 ## Conferences and Announcements
+
+### 2020
+
+{% bibliography --query @inproceedings[year=2020] %}
 
 ### 2019
 

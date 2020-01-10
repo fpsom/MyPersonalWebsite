@@ -10,4 +10,4 @@ Between 2010 and 2014 I worked as a post-doctoral researcher at the Institute o
 
 My research interests lay across three major pillars; (a) Bioinformatics and in particular data integration approaches for multiple NGS technologies, (b) data mining methods and techniques in order to analyse the vast amount of data involved, and (c) Grid and Cloud Computing in order to ensure the necessary computational power and to optimize automated bioinformatics workflows for large-scale approaches. A quick overview of my research can be seen through the word cloud produced by the titles and abstracts of my articles to date.
 
-You can also [download the PDF here](/files/cv.pdf) (_last updated November 2018_).
+You can also [download the PDF here](/files/fpsom-cv.pdf) (_last updated November 2019_).
