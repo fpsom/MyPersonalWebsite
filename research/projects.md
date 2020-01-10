@@ -4,7 +4,17 @@ title: Research Projects
 permalink: /research/projects/
 ---
 
-I have been involved is several European and National Research Projects. An indicative list is shown below:
+I have been recently awarded the GenOptics grant from the National [General Secretariat for Research and Technology (GSRT)](http://www.gsrt.gr/):
+
+{% include image.html url="/images/GenOptics_logo.png" caption="GenOptics logo" width=100 align="right" %}
+- [GenOptics](https://github.com/orgs/GeneOptics/) (_Large Scale bio-data Visual analytics platform_) is a 30-month national project (2020-2023) that will implement a new platform for integrating, analyzing and visualizing multi-omics and other clinico-biological data, by extending the functionality of established bioinformatic analysis tools through an interactive visual dashboard. Visual analytics, namely the simultaneous use of computational data analysis tools with interactive visualizations, is a powerful way of combining algorithms with an intuitive, user-friendly interactive environment in order to extract knowledge from large scale bio-data. Although visual analytics could contribute to significantly reducing the gap between available data
+and discovery of new knowledge through targeted studies, there is no widely used platform that provides this functionality to the scientific community. GenOptics will allow visual analytics of multi-omics data through a modular system that will integrate multiple interoperable analysis tools into a software platform, leveraging established international technologies and software suites such as Docker and R/Bioconductor.
+
+Additionally, I'm co-leading two [ELIXIR](https://elixir-europe.org/) Tasks:
+- Training Platform Task 2 "_Gap analysis, training materials development and training delivery_"
+- Tools Platform Task 4 "_Software Best Practices_"
+
+Finally, in the past I have been involved in several European and National Research Projects. An indicative list is shown below:
 
 {% include image.html url="/images/RAPP_logo.png" caption="RAPP logo" width=100 align="right" %}
 - [RAPP](http://rapp-project.eu/) (_Robotic Applications for Delivering Smart User Empowering Applications_) was a 3-year project (2013-2016) that provided an open source software platform to support the creation and delivery of Robotic Applications (RApps), which, in turn, are expected to increase the versatility and utility of robots. The emphasis of this project was on applications that will enable robots to understand and respond to the intentions and needs of people at risk of exclusion, especially the elderly.
