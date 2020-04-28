@@ -23,3 +23,6 @@
 
 - title: "Bits and Pieces"
   href: "/blog/"
+  subcategories:
+    - subtitle: "multimedia"
+      subhref: "/about/media/"
