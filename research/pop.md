@@ -6,7 +6,7 @@ permalink: /research/pop/
 
 ## General Statistics
 
-_**Source**: Google Scholar Profile (last updated: 2019-09-10)_
+_**Source**: Google Scholar Profile (last updated: 2019-03-31)_
 
 | Metric | Value |
 |--------|-------|

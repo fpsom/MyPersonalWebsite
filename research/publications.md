@@ -6,6 +6,9 @@ permalink: /research/publications/
 
 # Bibliography
 
+This page contains my publications prior to the start of the [Biodata Analysis Group](https://biodataanalysisgroup.github.io/), i.e. until 2018. For up to date information, please refer to the [publications page](https://biodataanalysisgroup.github.io/publications/) there.
+
+
 [**Book**](#book)  |  [**Book Chapter**](#book-chapter)  |  [**Journals**](#journals)  |  [**Conferences and Announcements**](#conferences-and-announcements)  |  [**Other**](#other)
 
 ## Book
@@ -18,13 +21,6 @@ permalink: /research/publications/
 
 ## Journals
 
-### 2020
-
-{% bibliography --query @article[year=2020] %}
-
-### 2019
-
-{% bibliography --query @article[year=2019] %}
 
 ### 2018
 
@@ -61,13 +57,6 @@ permalink: /research/publications/
 
 ## Conferences and Announcements
 
-### 2020
-
-{% bibliography --query @inproceedings[year=2020] %}
-
-### 2019
-
-{% bibliography --query @inproceedings[year=2019] %}
 
 ### 2018
 

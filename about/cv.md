@@ -14,4 +14,4 @@ My research focus lies across three major pillars; (a) Bioinformatics and in par
 
 Finally, given my extensive training activities, both at the national and the European level, I am a member of the ELIXIR Training Platform Executive Committee, a member of the EOSC Skills and Training Working Group, and the deputy Training Coordinator for ELIXIR-GR.
 
-You can also [download the PDF here](/files/fpsom-cv.pdf) (_last updated November 2019_).
+You can also [download the PDF here](/files/fpsom-cv.pdf) (_last updated March 2019_).

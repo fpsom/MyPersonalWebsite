@@ -1,5 +1,8 @@
+**NOTE**: I've stopped maintaining this repo since 30/01/2021.
+
 # fpsom.github.io
 Fotis E. Psomopoulos personal website
+
 
 ## Steve's No-Good-Very-Bad Jekyll Theme
 
